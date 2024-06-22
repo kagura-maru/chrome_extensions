@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "freethis",
+  "version": "1.0",
+  "description": "Bypass this Medium site",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Bypass",
+    "default_icon": {
+      "64": "64.png"
+    }
+  }
+}
