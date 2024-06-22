@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  document.getElementById('openInNewTab').addEventListener('click', openDuplicateTab);
+  document.getElementById('bypass').addEventListener('click', openDuplicateTab);
 });
 
 function openDuplicateTab() {
